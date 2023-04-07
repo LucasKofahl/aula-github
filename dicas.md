@@ -27,6 +27,6 @@ Git reset --soft HEAD~1 - tira o ultimo commit feito
 
 Git rm -r --cached - para resetar o cache do git, em casos de tirar um arquivo do ignore e fazer push
 
-git ignore - seria como uma pasta, que tudo que esta lá dentro, sera ignorado e não será enviado para o github (até vai, mas seria como uma lista de arquivos ignorados, não sendo possível ver seu código ou no caso de pastas o que tem desntro delas)
+git ignore - seria como uma pasta, que tudo que esta lá dentro, sera ignorado e não será enviado para o github (até vai, mas seria como uma lista de arquivos ignorados, não sendo possível ver seu código ou no caso de pastas, não é possível ver o conteudo dentro delas)
 
-Gitkeep
+Gitkeep - 
