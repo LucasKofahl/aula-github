@@ -24,3 +24,5 @@ Git restore (file) ou . (ponto) - reverte todas as modificações feitas no arqu
 Git restore --staged (file) ou . - Voltando do Stage
 
 Git reset --soft HEAD~1 - tira o ultimo commit feito
+
+Git rm -r --cached - para resetar o cache do git, em casos de tirar um arquivo do ignore e fazer push
