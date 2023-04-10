@@ -30,3 +30,5 @@ Git rm -r --cached - para resetar o cache do git, em casos de tirar um arquivo d
 git ignore - seria como uma pasta, que tudo que esta lá dentro, sera ignorado e não será enviado para o github (até vai, mas seria como uma lista de arquivos ignorados, não sendo possível ver seu código ou no caso de pastas, não é possível ver o conteudo dentro delas)
 
 Gitkeep - usado para mostrar alguma pasta que esteja vazia, pois pastas vazias não são detectadas
+
+Git pull - puxa mudanças feitas por outro usuario de outra maquina ou feitor direto no github (não recomendado)
