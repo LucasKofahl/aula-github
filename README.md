@@ -1,4 +1,4 @@
-ORDEM/"REGRAS" DO GIT
+### ORDEM/"REGRAS" DO GIT
 
 Iniciar - git init 
   PS:dentro da pasta do projeto, vai ter uma pasta .git invisivel
